@@ -1,0 +1,19 @@
+{
+  "name": "webrtc-signaling-server",
+  "version": "1.0.0",
+  "description": "Simple WebRTC Signaling Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "keywords": [
+    "webrtc",
+    "signaling",
+    "websocket"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
